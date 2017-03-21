@@ -1,7 +1,8 @@
 ﻿using System.IO;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Builder;
 
-namespace BuildYourRunningCalendar
+namespace BuildYourRunningCalendar.API
 {
     public class Program
     {
