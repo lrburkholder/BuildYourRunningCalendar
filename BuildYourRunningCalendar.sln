@@ -1,13 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26228.4
+VisualStudioVersion = 15.0.26228.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{7B64C9DC-F323-4AEB-B509-3A91CA72878E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3CD1FCFA-199C-4B43-9179-252F422AB163}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{F117D141-8073-45C9-8C38-A39021C00E2D}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuildYourRunningCalendar", "src\BuildYourRunningCalendar\BuildYourRunningCalendar.csproj", "{195A712A-19F5-4722-A3B3-860A35174DA1}"
 EndProject
